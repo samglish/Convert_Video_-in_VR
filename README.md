@@ -14,7 +14,7 @@ It is free software and available for Linux/UNIX, MS Windows and Mac OS X.
 <a href="https://openscad.org/downloads.html#linux"><img src="down.png" width="20%"></a>
 </center>
 
-<a href=""><img src="Tuto.png" width="20%"></a> 
-<a href=""><img src="Library.png" width="20%"> </a>
-<a href=""><img src="book.png" width="20%"> </a>
-<a href=""><img src="sheet.png" width="20%"></a>
+<a href="https://openscad.org/documentation.html#tutorial"><img src="Tuto.png" width="20%"></a> 
+<a href="https://openscad.org/libraries.html"><img src="Library.png" width="20%"> </a>
+<a href="https://openscad.org/documentation-books.html"><img src="book.png" width="20%"> </a>
+<a href="https://openscad.org/cheatsheet/index.html"><img src="sheet.png" width="20%"></a>
