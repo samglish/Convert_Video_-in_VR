@@ -19,20 +19,26 @@ It is free software and available for Linux/UNIX, MS Windows and Mac OS X.
 
 <hr>
 
-`Linux`
+## Linux
 Debian / Ubuntu / Kubuntu
 OpenSCAD is available in the repositories of most recent distributions.
 ```bash
 $ sudo apt-get install openscad
 ```
-BSD
-NetBSD (>=6.1)
-Set up pkgin and run this command:
+## BSD
 
-# pkgin install openscad
-FreeBSD (>=10)
-# pkg install openscad
-OpenBSD
+`NetBSD (>=6.1)`
+
+### Set up pkgin and run this command:
+```bash
+pkgin install openscad
+```
+### FreeBSD (>=10)
+```bash
+pkg install openscad
+```
+### OpenBSD
+
 OpenSCAD is available for amd64, i386 and macppc in OpenBSD packages:
 
-# pkg_add openscad
+## pkg_add openscad
