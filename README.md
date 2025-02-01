@@ -25,7 +25,7 @@ OpenSCAD is available in the repositories of most recent distributions.
 ```bash
 $ sudo apt-get install openscad
 ```
-## BSD
+# BSD
 
 `NetBSD (>=6.1)`
 
