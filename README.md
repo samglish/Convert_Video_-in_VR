@@ -53,3 +53,5 @@ To use Gamepads or supported 3D Mouse devices (like the SpaceMouse series from 3
 ```bash
 snap connect openscad:joystick snapd:joystick
 ```
+
+More information <a href="https://openscad.org/downloads.html#linux">https://openscad.org/downloads.html#linux</a>
