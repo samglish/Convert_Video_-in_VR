@@ -11,7 +11,7 @@ It is free software and available for Linux/UNIX, MS Windows and Mac OS X.
 <a href="https://openscad.org/">https://openscad.org/</a>
 <img src="deux_etape.png" width="100%">
 <center>
-<img src="down.png" width="20%">
+<a href="https://openscad.org/downloads.html#linux"><img src="down.png" width="20%"></a>
 </center>
 
 <a href=""><img src="Tuto.png" width="20%"></a> 
