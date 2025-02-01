@@ -43,3 +43,13 @@ OpenSCAD is available for amd64, i386 and macppc in OpenBSD packages:
 ```bash
 pkg_add openscad
 ```
+
+## Linux - Snap
+Get it from the Snap Store Or install with
+```bash
+snap install openscad-nightly
+```
+To use Gamepads or supported 3D Mouse devices (like the SpaceMouse series from 3D Connexion) the following command is needed to allow the snap package access to the joystick interface.
+```bash
+snap connect openscad:joystick snapd:joystick
+```
