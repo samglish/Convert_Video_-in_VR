@@ -44,7 +44,7 @@ OpenSCAD is available for amd64, i386 and macppc in OpenBSD packages:
 pkg_add openscad
 ```
 
-## Linux - Snap
+# Linux - Snap
 Get it from the Snap Store Or install with
 ```bash
 snap install openscad-nightly
