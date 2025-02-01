@@ -40,5 +40,6 @@ pkg install openscad
 ### OpenBSD
 
 OpenSCAD is available for amd64, i386 and macppc in OpenBSD packages:
-
-## pkg_add openscad
+```bash
+pkg_add openscad
+```
