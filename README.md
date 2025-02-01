@@ -33,11 +33,11 @@ $ sudo apt-get install openscad
 ```bash
 pkgin install openscad
 ```
-### FreeBSD (>=10)
+## FreeBSD (>=10)
 ```bash
 pkg install openscad
 ```
-### OpenBSD
+## OpenBSD
 
 OpenSCAD is available for amd64, i386 and macppc in OpenBSD packages:
 ```bash
