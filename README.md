@@ -10,4 +10,5 @@ Convert Your Favorite Video into a Virtual Reality (VR)
 It is free software and available for Linux/UNIX, MS Windows and Mac OS X.
 <a href="https://openscad.org/">https://openscad.org/</a>
 <img src="deux_etape.png" width="100%">
+<img src="down.png" width="20%">
 
